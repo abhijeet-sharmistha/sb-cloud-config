@@ -1,2 +1,4 @@
 server:
   port: 3000
+app:
+  future-car: BMW M340i
